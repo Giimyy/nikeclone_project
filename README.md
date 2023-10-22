@@ -12,6 +12,7 @@ A modern UI/UX Nike Clone e-commerce project created using React + Tailwind CSS.
 
 ## Technologies Used
 
+- Vite.js
 - React.js
 - HTML
 - Tailwind CSS
